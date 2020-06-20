@@ -11,4 +11,5 @@ To use this project follow the steps :
 ![](images/img1.png)
 
 Go ahead and play the game !!
-*Have fun :)
+
+*Have fun :)* 
