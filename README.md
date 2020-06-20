@@ -1,6 +1,14 @@
-# Ping Pong Game JavaScript Using JavaScript
-The Snake game, created using JavaScript, and The HTML5 canvas.
+# Ping Pong Game 
+Ping Pong Game built using HTML, CSS and Vanilla JavaScript.
 
-Download the starter template, and follow the tutorial on youtube step by step.
+To use this project follow the steps :
+1. Clone the repo
+2. Open index.html file in a browser.
+3. I have kept the styling at a bare miniumum for you to go wild and make it your own.
 
-Tutorial link : https://youtu.be/nl0KXCa5pJk
+# A look of the front end of the game before starting
+
+![](images/img1.png)
+
+Go ahead and play the game !!
+*Have fun :)
